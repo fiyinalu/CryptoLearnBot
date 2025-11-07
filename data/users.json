@@ -1,0 +1,17 @@
+{
+    "users": [
+        {
+            "id": 5713848965,
+            "progress": {
+                "1": {
+                    "score": 120,
+                    "completed": true
+                }
+            }
+        },
+        {
+            "id": 2123910437,
+            "progress": {}
+        }
+    ]
+}

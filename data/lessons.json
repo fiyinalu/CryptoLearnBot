@@ -1,0 +1,64 @@
+{
+  "modules": [
+    {
+      "id": 1,
+      "title": "Intro to Decentralized Finance (DeFi)",
+      "description": "Understand what DeFi is and how it’s changing traditional finance.",
+      "pdf": "https://drive.google.com/file/d/1tXA43Yvm09o7mOipFMrz2wphYcW-iCbW/view?usp=drive_link",
+      "quiz": [
+        {"question": "What does DeFi stand for?", "options": ["Decentralized Finance", "Defined Finance", "Definite File", "Defer Income"], "answer": 0},
+        {"question": "What blockchain is DeFi mostly built on?", "options": ["Bitcoin", "Ethereum", "Solana", "Cardano"], "answer": 1},
+        {"question": "Which is a benefit of DeFi?", "options": ["Censorship", "Intermediaries", "Transparency", "High fees"], "answer": 2},
+        {"question": "Which of the following is a DeFi protocol?", "options": ["Uniswap", "PayPal", "Venmo", "Visa"], "answer": 0},
+        {"question": "What allows users to earn yield in DeFi?", "options": ["Liquidity pools", "Central banks", "Taxes", "Bonds"], "answer": 0},
+        {"question": "DeFi removes the need for?", "options": ["Banks", "Users", "Networks", "Computers"], "answer": 0},
+        {"question": "What token standard is common in DeFi?", "options": ["ERC-20", "BEP-2", "TRC-10", "SPL"], "answer": 0},
+        {"question": "Who controls smart contracts?", "options": ["Users", "Banks", "No one", "Governments"], "answer": 2},
+        {"question": "What do DeFi users connect with?", "options": ["Wallets", "Banks", "Cards", "IDs"], "answer": 0},
+        {"question": "Which of these best defines DeFi?", "options": ["Finance without intermediaries", "Finance using banks", "Finance using cash", "Finance under regulation"], "answer": 0}
+      ]
+    },
+    {
+      "id": 2,
+      "title": "DeFi Terms - Terms to be familiar with in the DeFi space",
+      "description": "Learn essential DeFi terms to navigate the ecosystem confidently.",
+      "pdf": "https://drive.google.com/file/d/1IsEZvWDwa1PMui2eXdZPvhchZpV5rln4/view?usp=drive_link",
+      "quiz": []
+    },
+    {
+      "id": 3,
+      "title": "DeFi Tools — wallets and research tools/platforms",
+      "description": "Explore key DeFi tools, wallets, and research platforms.",
+      "pdf": "https://drive.google.com/file/d/1nk7sWz1yXKDucMNcVF0iotk57vLqZZOW/view?usp=drive_link",
+      "quiz": []
+    },
+    {
+      "id": 4,
+      "title": "DeFi Security — Do's and Don'ts of DeFi",
+      "description": "Learn best practices for staying secure while using DeFi platforms.",
+      "pdf": "https://drive.google.com/file/d/1855s5QZTkG9AZdpJwDxUsNrhpQ4Oxh65/view?usp=drive_link",
+      "quiz": []
+    },
+    {
+      "id": 5,
+      "title": "Research Methodology",
+      "description": "Understand how to research projects before investing or interacting.",
+      "pdf": "https://drive.google.com/file/d/1P2AFoiGLftqGWHF3dhVkIbcyMUG8ygWi/view?usp=drive_link",
+      "quiz": []
+    },
+    {
+      "id": 6,
+      "title": "DeFi Jobs",
+      "description": "Discover the career opportunities available in DeFi.",
+      "pdf": "https://drive.google.com/file/d/1sYEFiTslXKZLkUoE6erapZpDlRJT5NDm/view?usp=drive_link",
+      "quiz": []
+    },
+    {
+      "id": 7,
+      "title": "Airdrops",
+      "description": "Learn how airdrops work and how to qualify for them safely.",
+      "pdf": "https://drive.google.com/file/d/1AxhLQKD3xFIceFnWndUVxHlNFr5DqY99/view?usp=drive_link",
+      "quiz": []
+    }
+  ]
+}
